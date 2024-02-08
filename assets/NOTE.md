@@ -1,0 +1,1 @@
+Need the base image for JPEG
