@@ -4,10 +4,7 @@
 
 - Learn about image processing raw image formats and compression algorithms
 - Trying not to use any dependencies
-- Potentially could become be an OSS alternative to Adobe's DNG converter
-
-### NOTE: Raw Images
-DNG or TIFF6? Depends on how complex this gets
+- Learn about information theory
 
 ### DESC
 
